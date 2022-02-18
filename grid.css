@@ -6,6 +6,17 @@ body {
   margin-bottom: 4rem;
 }
 
+.title__secondary {
+  margin-bottom: 2rem;
+}
+
+pre code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+}
+
 .grid__container {
   position: relative;
   background-color: burlywood;
@@ -50,10 +61,6 @@ body {
   margin-left: -3rem;
   color: red;
   font-weight: bold;
-}
-
-.title__secondary {
-  margin-bottom: 2rem;
 }
 
 .grid__positioning {
